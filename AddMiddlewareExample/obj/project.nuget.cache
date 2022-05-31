@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iaBgsCIpz8rc6ZDmi9kbzvqtDsKPVnF/6O3JybUlNkTHFX7ZE1QLXSPxc4MV9bgenueCAu7rBPDZ+wnLK8GVuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ljhha\\Documents\\IT\\C\\AddMiddlewareExample\\AddMiddlewareExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ljhha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ljhha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ljhha\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\ljhha\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ljhha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ljhha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ljhha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\ljhha\Documents\IT\C\Exercise21\bin\Debug\net6.0\Exercise21.exe
+C:\Users\ljhha\Documents\IT\C\Exercise21\bin\Debug\net6.0\Exercise21.deps.json
+C:\Users\ljhha\Documents\IT\C\Exercise21\bin\Debug\net6.0\Exercise21.runtimeconfig.json
+C:\Users\ljhha\Documents\IT\C\Exercise21\bin\Debug\net6.0\Exercise21.dll
+C:\Users\ljhha\Documents\IT\C\Exercise21\bin\Debug\net6.0\Exercise21.pdb
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.csproj.AssemblyReference.cache
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.AssemblyInfoInputs.cache
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.AssemblyInfo.cs
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.csproj.CoreCompileInputs.cache
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.dll
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\refint\Exercise21.dll
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.pdb
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\Exercise21.genruntimeconfig.cache
+C:\Users\ljhha\Documents\IT\C\Exercise21\obj\Debug\net6.0\ref\Exercise21.dll

@@ -1,0 +1,15 @@
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.csproj.AssemblyReference.cache
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfoInputs.cache
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfo.cs
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.csproj.CoreCompileInputs.cache
+C:\Users\ljhha\Documents\C\Exercise15\bin\Debug\net6.0\Exercise15.exe
+C:\Users\ljhha\Documents\C\Exercise15\bin\Debug\net6.0\Exercise15.deps.json
+C:\Users\ljhha\Documents\C\Exercise15\bin\Debug\net6.0\Exercise15.runtimeconfig.json
+C:\Users\ljhha\Documents\C\Exercise15\bin\Debug\net6.0\Exercise15.dll
+C:\Users\ljhha\Documents\C\Exercise15\bin\Debug\net6.0\Exercise15.pdb
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.dll
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\refint\Exercise15.dll
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.pdb
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\Exercise15.genruntimeconfig.cache
+C:\Users\ljhha\Documents\C\Exercise15\obj\Debug\net6.0\ref\Exercise15.dll

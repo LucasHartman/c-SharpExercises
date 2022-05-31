@@ -1,0 +1,30 @@
+﻿using System;
+
+/*
+Nathan loves cycling.
+Because Nathan knows it is important to stay hydrated, 
+he drinks 0.5 litres of water per hour of cycling.
+
+You get given the time in hours and 
+you need to return the number of litres Nathan will drink, 
+rounded to the smallest value.
+
+For example:
+time = 3 ----> litres = 1
+time = 6.7---> litres = 3
+time = 11.8--> litres = 5
+*/
+public class Kata
+{
+  public static int Litres(double time)
+  {
+    return (int)time/2;
+  }
+
+  public static int LitresLambda(double time) => (int)time/2;
+
+  static void Main(string[] args)
+  {
+    Console.WriteLine(Kata.LitresLambda(6.7));
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ljhha\Documents\C\Exercise11\bin\Debug\net6.0\Exercise11.exe
+C:\Users\ljhha\Documents\C\Exercise11\bin\Debug\net6.0\Exercise11.deps.json
+C:\Users\ljhha\Documents\C\Exercise11\bin\Debug\net6.0\Exercise11.runtimeconfig.json
+C:\Users\ljhha\Documents\C\Exercise11\bin\Debug\net6.0\Exercise11.dll
+C:\Users\ljhha\Documents\C\Exercise11\bin\Debug\net6.0\Exercise11.pdb
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.csproj.AssemblyReference.cache
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.AssemblyInfoInputs.cache
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.AssemblyInfo.cs
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.csproj.CoreCompileInputs.cache
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.dll
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\refint\Exercise11.dll
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.pdb
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\Exercise11.genruntimeconfig.cache
+C:\Users\ljhha\Documents\C\Exercise11\obj\Debug\net6.0\ref\Exercise11.dll

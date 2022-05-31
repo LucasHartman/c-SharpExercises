@@ -1,0 +1,16 @@
+C:\Users\ljhha\Documents\IT\C\Exercise24\bin\Debug\net5.0\Exercise24.exe
+C:\Users\ljhha\Documents\IT\C\Exercise24\bin\Debug\net5.0\Exercise24.deps.json
+C:\Users\ljhha\Documents\IT\C\Exercise24\bin\Debug\net5.0\Exercise24.runtimeconfig.json
+C:\Users\ljhha\Documents\IT\C\Exercise24\bin\Debug\net5.0\Exercise24.runtimeconfig.dev.json
+C:\Users\ljhha\Documents\IT\C\Exercise24\bin\Debug\net5.0\Exercise24.dll
+C:\Users\ljhha\Documents\IT\C\Exercise24\bin\Debug\net5.0\ref\Exercise24.dll
+C:\Users\ljhha\Documents\IT\C\Exercise24\bin\Debug\net5.0\Exercise24.pdb
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.csproj.AssemblyReference.cache
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.AssemblyInfoInputs.cache
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.AssemblyInfo.cs
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.csproj.CoreCompileInputs.cache
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.dll
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\ref\Exercise24.dll
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.pdb
+C:\Users\ljhha\Documents\IT\C\Exercise24\obj\Debug\net5.0\Exercise24.genruntimeconfig.cache
